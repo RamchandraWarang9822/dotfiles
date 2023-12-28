@@ -7,3 +7,5 @@ coc-settings.json
 lazy-lock.json
 after
 **/.DS_Store
+.gitignore
+# git commit password : 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
